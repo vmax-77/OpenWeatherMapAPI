@@ -1,0 +1,19 @@
+# Основное приложение
+streamlit==1.52.2
+
+# Анализ данных
+pandas==2.0.3
+numpy==1.24.3
+scipy==1.11.2
+
+# Визуализация
+plotly==5.17.0
+matplotlib==3.7.2
+
+# API запросы
+requests==2.31.0
+aiohttp==3.8.5
+
+# Утилиты
+python-dateutil==2.8.2
+pytz==2023.3
